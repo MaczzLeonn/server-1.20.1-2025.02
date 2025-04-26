@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-26 22:21:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-26 22:13:54 +0000"
@@ -25,7 +31,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sunflower_plains": "2025-04-26 22:13:55 +0000"
+      "minecraft:sunflower_plains": "2025-04-26 22:13:55 +0000",
+      "minecraft:plains": "2025-04-26 22:21:44 +0000"
     },
     "done": false
   },

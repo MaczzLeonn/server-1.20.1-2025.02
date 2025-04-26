@@ -147,3 +147,9 @@
 [26Apr2025 22:13:54.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaczLeon[/127.253.150.83:51923] logged in with entity id 182 at (-76.5, 64.0, 58.5)
 [26Apr2025 22:13:54.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaczLeon joined the game
 [26Apr2025 22:14:18.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MaczLeon> putas
+[26Apr2025 22:20:56.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manoloMinero[/127.253.150.83:58581] logged in with entity id 1432 at (-76.5, 68.0, 49.5)
+[26Apr2025 22:20:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manoloMinero joined the game
+[26Apr2025 22:22:41.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manoloMinero lost connection: Disconnected
+[26Apr2025 22:22:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manoloMinero left the game
+[26Apr2025 22:24:00.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaczLeon lost connection: Disconnected
+[26Apr2025 22:24:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaczLeon left the game
