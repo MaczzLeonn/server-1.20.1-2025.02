@@ -159,7 +159,8 @@
     "criteria": {
       "minecraft:snowy_plains": "2025-04-28 01:27:00 +0000",
       "minecraft:ice_spikes": "2025-04-28 01:25:45 +0000",
-      "minecraft:frozen_ocean": "2025-04-28 01:27:19 +0000"
+      "minecraft:frozen_ocean": "2025-04-28 01:27:19 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-28 01:43:39 +0000"
     },
     "done": false
   },
